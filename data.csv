@@ -1,3 +1,5 @@
-{"price": "1100"}
-{"description": "This minimalist gold stacked necklace will help elevate your everyday basics. Features oval shaped motifs with a black drop"}
-{"image": ["/images/bproduct.jpg", "/images/bproduct.jpg", "/images/bproduct.jpg"]}
+{"price": "1100", "images": []}
+{"description": "This minimalist gold stacked necklace will help elevate your everyday basics. Features oval shaped motifs with a black drop", "images": []}
+{"image_urls": ["https://img.faballey.com/images/Product/ZNE00008/d3.jpg"], "images": [{"url": "https://img.faballey.com/images/Product/ZNE00008/d3.jpg", "path": "full/d320871329571f1470caa8607cca7865f47e16b2.jpg", "checksum": "9afc7b806b9ba699fdbbbbc2d116418c", "status": "downloaded"}]}
+{"image_urls": ["https://img.faballey.com/images/Product/ZNE00008/d5.jpg"], "images": [{"url": "https://img.faballey.com/images/Product/ZNE00008/d5.jpg", "path": "full/3a94779cea6ab1b079b31de3aef2243070eeb31c.jpg", "checksum": "7eb01defa53ba1d969a204f5e19d29b2", "status": "downloaded"}]}
+{"image_urls": ["https://img.faballey.com/images/Product/ZNE00008/d4.jpg"], "images": [{"url": "https://img.faballey.com/images/Product/ZNE00008/d4.jpg", "path": "full/16eb2eb089fccd2e902da7efb86494407116abd0.jpg", "checksum": "b71c5c4bf5ecbe893a791516cbb3bdb4", "status": "downloaded"}]}
