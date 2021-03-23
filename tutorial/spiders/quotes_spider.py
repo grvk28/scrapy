@@ -29,9 +29,9 @@ class QuotesSpider(scrapy.Spider):
                 #'tags': quote.css('div.tags a.tag::text').getall(),
             }
 #response.css('img').xpath('@src').getall()
-        for quote in response.css('img::attr(data-img)').extract():
+        for quote in response.css('div.prodLeft'):
             yield {
-                #'image': quote.css('img').xpath('@src')get()
+                'image': quote.css('img').xpath('@src').getall()
                 #'author': quote.css('small.author::text').get(),
                 #'tags': quote.css('div.tags a.tag::text').getall(),
             }
