@@ -12,9 +12,9 @@ BOT_NAME = 'tutorial'
 SPIDER_MODULES = ['tutorial.spiders']
 NEWSPIDER_MODULE = 'tutorial.spiders'
 
-#ITEM_PIPELINES = {
-#  'scrapy.pipelines.images.ImagesPipeline': 1}
-#IMAGES_STORE = 'images/'
+ITEM_PIPELINES = {
+  'scrapy.pipelines.images.ImagesPipeline': 1}
+IMAGES_STORE = 'images/'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
