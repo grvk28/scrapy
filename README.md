@@ -1,1 +1,1 @@
-# main file: tutorial/spiders/
+# main file: tutorial/spiders/quotes_spider.py
