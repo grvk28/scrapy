@@ -28,6 +28,9 @@ class QuotesSpider(scrapy.Spider):
             }
 #response.css('img').xpath('@src').getall()
         for quote in response.css('div.prodLeft'):
-            yield {
-                'image': quote.css('img').xpath('@src').getall()
-            }
+            images = quote.css('img::attr(data-original)').extract()
+
+            for  item in zip(images):
+                yield {
+                    'image_urls': [item[0]]
+                }
