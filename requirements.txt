@@ -165,7 +165,7 @@ simplejson==3.13.2
 six==1.15.0
 sklearn==0.0
 soupsieve==2.1
-sqlparse==0.4.1
+sqlparse==0.4.2
 ssh-import-id==5.7
 system-service==0.3
 systemd-python==234
