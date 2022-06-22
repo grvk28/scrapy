@@ -102,7 +102,7 @@ nbformat==5.1.2
 nest-asyncio==1.5.1
 netifaces==0.10.4
 notebook==6.2.0
-numpy==1.19.5
+numpy==1.22.0
 oauth==1.0.1
 oauthlib==3.1.0
 olefile==0.45.1
